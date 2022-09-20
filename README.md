@@ -10,8 +10,8 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ x ] **User can add an item to their wishlist**
-- [ x ] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Arstal/Wishlist/blob/master/Project%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif](https://ezgif.com/).  
 
