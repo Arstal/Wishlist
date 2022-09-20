@@ -35,6 +35,8 @@ GIF created with [ezgif](https://ezgif.com/).
 
 Describe any challenges encountered while building the app.
 
+The Textview is tranparent and caused some minor issue with how it looks.
+
 ## License
 
     Copyright [2022] [Qihao Cai]
